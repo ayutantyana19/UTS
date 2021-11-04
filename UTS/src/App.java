@@ -12,5 +12,6 @@ public class App {
         //1 instance ketua panitia (isikan nama, noAnggota dan periode kepengurusan)
         KetuaPanitia Mustika = new KetuaPanitia("Mustika", "42030090", "2021 / 2022");
         Mustika.display();
-    }
+
+        
 }
