@@ -42,5 +42,7 @@ public class Anggota {
 
     void melihatKegiatan(){
         System.out.println("melihat kegiatan");
+        System.out.println("Semangat Kelasnya");
+    }
     }
 }
